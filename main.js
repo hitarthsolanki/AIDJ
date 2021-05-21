@@ -2,7 +2,7 @@ song = "";
 
 function preload()
 {
-	song = loadSound("Harry Potter Theme Song (320 kbps).mp3");
+	song = loadSound("harrypotter.mp3");
 }
 
 scoreRightWrist = 0;
